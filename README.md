@@ -17,7 +17,8 @@ O agente é implementado usando a arquitetura **ReAct** via **LangGraph**, permi
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
 
 ---
-
+![image](https://github.com/user-attachments/assets/3a0cc284-7fbf-4c87-81c8-a700c3a9bfe2)
+---
 ## 📦 Estrutura do Projeto
 
 ```
